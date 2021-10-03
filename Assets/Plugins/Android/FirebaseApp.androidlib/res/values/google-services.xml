@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">591452623985</string>
+  <string name="google_storage_bucket" translatable="false">incremental-game-a662f.appspot.com</string>
+  <string name="project_id" translatable="false">incremental-game-a662f</string>
+  <string name="google_api_key" translatable="false">AIzaSyA1iUye9PEyv8ybDwwfQ75i8v3IOXulsbs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1iUye9PEyv8ybDwwfQ75i8v3IOXulsbs</string>
+  <string name="google_app_id" translatable="false">1:591452623985:android:483fa140a40b56d59177d0</string>
+  <string name="default_web_client_id" translatable="false">591452623985-91t6jv41qpcth9328iuq77378iakmb2s.apps.googleusercontent.com</string>
+</resources>
